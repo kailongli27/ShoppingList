@@ -16,5 +16,5 @@ All other relevant files can be found [here](app/src/main/java/com/example/shopp
 ### Demonstration of Application
 
 <p align="center">
-      <img src="https://github.com/kailongli27/ShoppingList/blob/master/app_recording.gif" width="350" height="600" title = "AppRecording">
+      <img src="https://github.com/kailongli27/ShoppingList/blob/master/app_recording.gif" width="350" height="650" title = "AppRecording">
 </p
