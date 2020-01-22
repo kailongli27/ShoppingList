@@ -14,3 +14,7 @@ An Android application that allows users to create a shopping list. Users can ad
 All other relevant files can be found [here](app/src/main/java/com/example/shoppinglist/).
 
 ### Demonstration of Application
+
+<p align="center">
+      <img src="https://github.com/kailongli27/ShoppingList/blob/master/app_recording.gif" width="350" height="600" title = "AppRecording">
+</p
